@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil💟
 
-<!--
-**EstudanteLa16/EstudanteLa16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Laisa
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou desenvolvendo na lingaugem javaScript
+- utilizo esse espaço para minha organizaçao e compartilhamento os meu projetos desenvolvidos
+  
+  - ### Você entaer em contato comgio📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001233161878sp@al.educacao.sp.gov.br
+
+EstudanteLa16
